@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Image Studio",
+  "description": "Generate and edit images using text prompts with the Gemini 2.5 Flash Image model (also known as Nano Banana). Upload an image to start editing, or just type a prompt to generate a new one.",
+  "requestFramePermissions": []
+}
